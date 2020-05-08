@@ -98,7 +98,7 @@ function load() {
         if (sav.rp.amount.gt(3e12)) {
             // this literally broke the fucking game lmao
             sav.rp.amount = new D(3e12)
-            alert("!!UPDATE NOTICE!!\nBecause your amount of RP succeeded 3e12, it will be harcapped at that. You probably would have beaten all the new content there is if you had started with any more!")
+            alert("!!UPDATE NOTICE!!\nBecause your amount of RP succeeded 3e12, it will be hardcapped at that. You probably would have beaten all the new content there is if you had started with any more!")
         }
     } if (sav.version == 6) {
         sav.trialTreeUnlocked = false
