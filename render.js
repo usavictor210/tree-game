@@ -192,14 +192,14 @@ const choiceUpgrades = {
 }
 
 const trialInfo = [
-    "All production is raised to the power of 2.2, but all upgrade costs are raised to the power of 1.5, and choice and rebirth upgrades don't work.",
+    "All production is raised to the power of 2.2, but all upgrade costs are raised to the power of 1.5, and rebirth tree upgrades are disabled.",
     "All production is raised to the power of 0.1.",
-    "All production is divided by 5 and rebirth and choice upgrades have no affect.",
-    "Rebirth upgrades don't work.",
+    "All production is divided by 5 and rebirth tree upgrades are disabled.",
+    "Rebirth upgrades are disabled.",
 
-    "Production is raised to the power of (1 ÷ amount of normal upgrades you have)",
+    "Production is raised to the power of (1 ÷ amount of normal upgrades you have).",
     "You can only buy 15 upgrades.",
-    "Choice upgrades don't work, along with the last row of rebirth upgrades.",
+    "Choice upgrades and the last row of rebirth upgrades are disabled.",
     "This is just a normal run."
 ]
 
